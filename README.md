@@ -19,4 +19,15 @@ Our mission is simple: to design, develop, and create a chess playing system via
 ## *Ready Go* System Design
 <img src="/images/System_Design.png" width="700" >
 
+
+## Edge Detection - Board recognition 
+#### Board image
+<img src="/images/Edge_Detection/Board_image.png" width="500" >
+
+#### Corners image
+<img src="/images/Edge_Detection/Corners_image.png" width="500" >
+
+#### Squares image
+<img src="/images/Edge_Detection/Squares_image.png" width="500" >
+
 #### `DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING THE UNIVERSITY OF TEXAS AT ARLINGTON`
