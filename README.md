@@ -21,13 +21,13 @@ Our mission is simple: to design, develop, and create a chess playing system via
 
 
 ## Edge Detection - Board recognition 
-#### Original input Board image
-<img src="/images/Edge_Detection/Board_image.png" width="400" >
+#### Original input Board image"
+<img src="/images/Edge_Detection/Board_image.jpg" width="400" >
 
-#### Detected edges and corners
+#### Detected edges and corners:
 <img src="/images/Edge_Detection/Corners_image.png" width="400" >
 
-#### Identify squares
+#### Identify squares:
 <img src="/images/Edge_Detection/Square_image.png" width="400" >
 
 #### `DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING THE UNIVERSITY OF TEXAS AT ARLINGTON`
