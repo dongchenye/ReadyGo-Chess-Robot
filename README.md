@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-[Overview?](#Overview)    
+[Overview](#Overview)    
 [Vision](#Vision)    
 [Mission](#Mission)    
 [Project Presentation Poster](#Poster)    
@@ -27,10 +27,10 @@ Our mission is simple: to design, develop, and create a chess playing system via
 <img src="/images/Project_Presentation_Poster.png" width="700" >
 
 ## <a name="SystenDesign"></a>*Ready Go* System Design
-<img src="/images/System_Design.png" width="700" >
+<img src="/images/System_Design.png" width="900" >
 
 ## <a name="EdgeDetection"></a>Edge Detection - Board recognition 
-#### Original input Board image"
+#### Original input Board image:
 <img src="/images/Edge_Detection/Board_image.jpg" width="400" >
 
 #### Detected edges and corners:
