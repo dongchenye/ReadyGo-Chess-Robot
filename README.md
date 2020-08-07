@@ -9,6 +9,7 @@
 [Mission](#Mission)    
 [Project Presentation Poster](#Poster)    
 [*Ready Go* System Design](#SystemDesign)    
+[*Ready Go* UI Flow](#UIFlow)   
 [Edge Detection - Board recognition ](#EdgeDetection)     
 
 
@@ -28,6 +29,9 @@ Our mission is simple: to design, develop, and create a chess playing system via
 
 ## <a name="SystenDesign"></a>*Ready Go* System Design
 <img src="/images/System_Design.png" width="900" >
+
+## <a name="UIFlow"></a>*Ready Go* UI Flow
+<img src="/images/UI_Flow.png" width="900" >
 
 ## <a name="EdgeDetection"></a>Edge Detection - Board recognition 
 #### Original input Board image:
